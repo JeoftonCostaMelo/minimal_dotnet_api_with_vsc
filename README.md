@@ -16,6 +16,17 @@ Utilizei as seguintes tecnologias:
 
 ## Antes de Começar
 
+Precisamos verificar se temos o SDK do .NET está instalado em nossa máquina. E confirmar se esta versão é acima da versão 6.0. Para isto, podemos rodar o comando:
+
+<pre>dotnet --version</pre>
+
+Caso não apareça algo semelhante a isto:
+
+<pre>PS D:\MyCompute\minimal_dotnet_api_with_vsc> dotnet --version
+8.0.101</pre>
+
+Você não tem o SDK do .NET instalado. Porém não se preocupe, você pode acessar o site da Microsoft e fazer download do respectivo instalador, [clique aqui](https://dotnet.microsoft.com).
+
 1. Instale o sdk do .NET (dê preferência às versões iniciadas com número pares, pois são versões LTS)
 
 ## English version ![England Flag](https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/50px-Flag_of_England.svg.png)
